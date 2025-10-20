@@ -223,7 +223,6 @@ Open http://localhost:3000 in your browser – the app will hot-reload on change
 
 Built with inspiration from:
 
-- Adrian Hajdin's JavaScript Mastery community [JavaScript Mastery](https://www.youtube.com/c/JavaScriptMastery)
 - The Next.js community for endless resources and best practices
 - Radix UI team for accessible component primitives
 - Appwrite community for backend-as-a-service solutions
@@ -233,13 +232,4 @@ Built with inspiration from:
 
 ## 9.  📜License <a id="license"></a>
 MIT License - see LICENSE.md for details.
-<br />
-<br />
-
-![image](https://github.com/user-attachments/assets/9d8fb39d-f412-4a08-9621-06e55b9d2eff)
-![image](https://github.com/user-attachments/assets/8a934eae-ab19-4250-94de-214362cf657d)
-![image](https://github.com/user-attachments/assets/614b3a40-8340-4f6d-af3b-6957823ab71f)
-![image](https://github.com/user-attachments/assets/5ae92d28-1583-40c2-b2e0-63cf7873f94f)
-![image](https://github.com/user-attachments/assets/0577f8ba-d2ab-4733-ae89-2c0f43cf3425)
-
 
